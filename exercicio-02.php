@@ -16,7 +16,7 @@
 
         h1{
             text-transform: uppercase;
-            color
+            color: #fff;
         }
 
         section {
@@ -28,7 +28,7 @@
         }
 
         section:hover {
-            color: #945151;y
+            color: #945151;
             color: black;
 
             transition: all 2;
