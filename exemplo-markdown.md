@@ -49,3 +49,11 @@ echo "Olá, $aluno!";
     - [ ] briefing
     - [ ] Rascunhos
     - [x] Desing
+
+
+## Tabelas
+
+| Cliente    | Idade    | Cidade
+| --------   | -------- | -------- 
+| Cliente 1  | 20       | São Paulo
+| Cliente 2  | 36       | Minas Gerais
