@@ -61,76 +61,76 @@ echo "Olá, $aluno!";
 
 ## Emoji
 
-    :smile:
-    :+1:
-    :-1:
-    :100:
-    :sunglasses:
-    :heart_eyes:
-    :kissing_heart:
-    :kissing_closed_eyes:
-    :relaxed:
-    :smirk:
-    :stuck_out_tongue_winking_eye:
-    :stuck_out_tongue_closed_eyes:
-    :flushed:
-    :grin:
-    :pensive:
-    :relieved:
-    :unamused:
-    :disappointed:
-    :weary:
-    :pensive:
-    :cry:
-    :sob:
-    :joy:
-    :astonished:
-    :scream:
-    :sleeping:
-    :fearful:
-    :cold_sweat:
-    :sweat_smile:
-    :sweat:
-    :weary:
-    :tired_face:
-    :frowning:
-    :anguished:
-    :open_mouth:
-    :grimacing:
-    :confused:
-    :hushed:
-    :expressionless:
-    :unamused:
-    :sweat_smile:
-    :weary:
-    :pensive:
-    :confounded:
-    :fearful:
-    :cold_sweat:
-    :persevere:
-    :cry:
-    :disappointed_relieved:
-    :tired_face:
-    :frowning:
-    :anguished:
-    :open_mouth:
-    :grimacing:
-    :confused:
-    :hushed:
-    :expressionless:
-    :unamused:
-    :sweat_smile:
-    :weary:
-    :pensive:
-    :confounded:
-    :fearful:
-    :cold_sweat:
-    :persevere:
-    :cry:
-    :disappointed_relieved:
-    :tired_face:
-    :frowning:
-    :anguished:
-    :open_mouth:
-    :grimacing:
-    :confused:
+:smile:
+:+1:
+:-1:
+:100:
+:sunglasses:
+:heart_eyes:
+:kissing_heart:
+:kissing_closed_eyes:
+:relaxed:
+:smirk:
+:stuck_out_tongue_winking_eye:
+:stuck_out_tongue_closed_eyes:
+:flushed:
+:grin:
+:pensive:
+:relieved:
+:unamused:
+:disappointed:
+:weary:
+:pensive:
+:cry:
+:sob:
+:joy:
+:astonished:
+:scream:
+:sleeping:
+:fearful:
+:cold_sweat:
+:sweat_smile:
+:sweat:
+:weary:
+:tired_face:
+:frowning:
+:anguished:
+:open_mouth:
+:grimacing:
+:confused:
+:hushed:
+:expressionless:
+:unamused:
+:sweat_smile:
+:weary:
+:pensive:
+:confounded:
+:fearful:
+:cold_sweat:
+:persevere:
+:cry:
+:disappointed_relieved:
+:tired_face:
+:frowning:
+:anguished:
+:open_mouth:
+:grimacing:
+:confused:
+:hushed:
+:expressionless:
+:unamused:
+:sweat_smile:
+:weary:
+:pensive:
+:confounded:
+:fearful:
+:cold_sweat:
+:persevere:
+:cry:
+:disappointed_relieved:
+:tired_face:
+:frowning:
+:anguished:
+:open_mouth:
+:grimacing:
+:confused:
