@@ -40,7 +40,7 @@ echo "Olá, $aluno!";
 
 ## Imagens
 
-    ![Logotipo PHP]php-logo.php)
+![Logotipo PHP](php-logo.png)
 
 ## Caixa de Selação
 
