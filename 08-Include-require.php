@@ -30,11 +30,11 @@
     </nav>
 
     <p>
-        O Aluno Chapolin tem 25 anos <?=vericaIdade(25)?>.
+        O Aluno Chapolin tem 25 anos <?=vericaIdade(25)?>
     </p>
 
     <p>
-        O Aluno Chaves tem 17 anos <?=vericaIdade(17)?>.
+        O Aluno Chaves tem 17 anos <?=vericaIdade(17)?>
     </p>
 
     <article>
